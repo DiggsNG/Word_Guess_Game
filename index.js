@@ -36,9 +36,9 @@ GameOn.prototype.assessLetter = function(guessedItLetter) {
         var newProgrammer = new Programmer(
           answers.guestIt),
         })  
-        answers.guestIt = guessedItLetter;
+        guessedItLetter = answers.guestIt;
     } else {
-      answers.guestIt = guessedItLetter;
+      guessedItLetter = answers.guestIt;
           }}
     //Check Key pressed.
     var characters = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"];
