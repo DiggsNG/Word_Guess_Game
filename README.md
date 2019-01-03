@@ -8,9 +8,10 @@
 - *For additioanl detail please follow the attached images:*
 
 ## Support Images.
-   This section provides images for this Constructor/NODE.JS application. The images are located within images/assets. These images provide directions on how to use this application. 
-   http://github.com - automatic!
+   This section provides images for this *Constructor/NODE.JS* application. The images are located within images/assets. These images provide directions on how to use this application. 
+http://github.com - automatic!
 [GitHub](http://github.com)
 
--![First Screen](https://github.com/DiggsNG/Word_Guess_Game/blob/master/assets/Images/word1-png)
--![Second Windows](https://github.com/DiggsNG/Word_Guess_Game/blob/master/assets/Images/word2.png)
+![First Screen](https://github.com/DiggsNG/Word_Guess_Game/blob/master/assets/Images/word1-png)
+
+![Second Windows](https://github.com/DiggsNG/Word_Guess_Game/blob/master/assets/Images/word2.png)
