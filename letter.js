@@ -1,25 +1,27 @@
-function Letter(letterChoice) {
-    this.value = letterChoice;
+function Letter(letter){
+    this.letter = letter;
+    this.guessed = false;
 
-    if(letterChoice === "" || letterChoice ==="_") {
-            this.guessedIt = true;
-    } else {
-        this.guessedIt = false;
-    };
-};
-
-Letter.prototype.displayLetter = function(){
-    if(this.guessedIt){
-         return this.value.green;
-    } else {
-         return "_".cyn;
+    //How to display each letter
+    this.getChar = function(){
+        if(this.guessed === false){
+            return "_";
+        }
+        else{
+            return this.letter;
+        }
     }
-};
-Letter.prototype.isThisLetter = function(guessedItLetter) {
-    if(this.value.toUpperCase() === guessedItLetter)
-    this.guessedIt = true;
-};
-Letter();
-displayLetter();
-isThisLetter();
+    
+    this.checkGuess = function(guess){
+        if(guess === this.letter){
+            this.guessed = true;
+            return true;
+        }
+        else{
+            return false;
+        }
+    }
+
+}
+
 module.exports = Letter;
