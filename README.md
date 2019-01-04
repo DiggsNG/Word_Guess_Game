@@ -8,18 +8,18 @@
 - *For additioanl detail please follow the attached images:*
 
 ## Support Images.
-   This section provides images for this *Constructor/NODE.JS* application. The images are located within images/assets. These images provide directions on how to use this application. 
+   This section provides images for this *Constructor/NODE.JS* application. The images are located within asset/images. These images provide directions on how to use this application. 
 http://github.com - automatic!
 [GitHub](http://github.com)
 
 [First Screen](https://github.com/DiggsNG/Word_Guess_Game/blob/master/asset/images/words1.PNG)
 
-[Second Window](https://github.com/DiggsNG/Word_Guess_Game/blob/master/asset/Images/word2.PNG)
+[Second Window](https://github.com/DiggsNG/Word_Guess_Game/blob/master/asset/images/word2.PNG)
 
-[Third Window](https://github.com/DiggsNG/Word_Guess_Game/blob/master/asset/Images/word3.PNG)
+[Third Window](https://github.com/DiggsNG/Word_Guess_Game/blob/master/asset/images/word3.PNG)
 
-[Fourth Window](https://github.com/DiggsNG/Word_Guess_Game/blob/master/asset/Images/word4.PNG)
+[Fourth Window](https://github.com/DiggsNG/Word_Guess_Game/blob/master/asset/images/word4.PNG)
 
-[Fifth Window](https://github.com/DiggsNG/Word_Guess_Game/blob/master/asset/Images/word5.PNG)
+[Fifth Window](https://github.com/DiggsNG/Word_Guess_Game/blob/master/asset/images/word5.PNG)
 
-[Sixth Window](https://github.com/DiggsNG/Word_Guess_Game/blob/master/asset/Images/word6.PNG)
+[Sixth Window](https://github.com/DiggsNG/Word_Guess_Game/blob/master/asset/images/word6.PNG)
