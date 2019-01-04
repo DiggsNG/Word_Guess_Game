@@ -12,6 +12,14 @@
 http://github.com - automatic!
 [GitHub](http://github.com)
 
-![First Screen](https://github.com/DiggsNG/Word_Guess_Game/blob/master/assets/Images/word1-png)
+![First Screen](/asset/Images/word1-png)
 
-![Second Windows](https://github.com/DiggsNG/Word_Guess_Game/blob/master/assets/Images/word2.png)
+![Second Window](https://github.com/DiggsNG/Word_Guess_Game/blob/master/asset/Images/word2.png)
+
+![Third Window](https://github.com/DiggsNG/Word_Guess_Game/blob/master/asset/Images/word3.png)
+
+![Fourth Window](https://github.com/DiggsNG/Word_Guess_Game/blob/master/asset/Images/word4.png)
+
+![Fifth Window](https://github.com/DiggsNG/Word_Guess_Game/blob/master/asset/Images/word5.png)
+
+![Sixth Window](https://github.com/DiggsNG/Word_Guess_Game/blob/master/asset/Images/word6.png)
